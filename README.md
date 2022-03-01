@@ -4,6 +4,8 @@ about me
 linkedin : https://www.linkedin.com/in/younlea-kim-30701919/   
 youtube : https://www.youtube.com/user/younlea/videos   
 blog : http://sulac.egloos.com/     
+book : 시작하는 드로너를 위한 아두이노 드론 마스터 북 (http://www.yes24.com/Product/Goods/31867892)   
+<hr/>
 
 Experience   
 Principal Software Engineer   
@@ -49,6 +51,4 @@ VOLUNTEER
 • Teaching science to the elementary student on each Month last weekend.[2013 ~ 2016]   
 • Mentor on hanium and IT probono (hanium.or.kr) since 2013.   
 
-BLOG AND BOOK   
-• sulac.egloos.com (blog)   
-• 시작하는 드로너를 위한 아두이노 드론 마스터 북 (book)   
+
