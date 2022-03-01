@@ -51,13 +51,13 @@ VOLUNTEER
 • Teaching science to the elementary student on each Month last weekend.[2013 ~ 2016]   
 • Mentor on hanium and IT probono (hanium.or.kr) since 2013.   
 
-<hr/>   
-news
-https://news.mt.co.kr/mtview.php?no=2015052016225907055&outlink=1&ref=https%3A%2F%2Fsearch.naver.com![image](https://user-images.githubusercontent.com/1435846/156097519-aa53a02d-96d9-4f94-8238-8e90ea7d4470.png)
+<hr/>    
 
-https://www.fpn119.co.kr/92309   
-https://www.fpn119.co.kr/149484   
-https://blog.naver.com/sw_maestro/222424498772   
+news     
+[news1](https://news.mt.co.kr/mtview.php?no=2015052016225907055, "news link")      
+[news2](https://www.fpn119.co.kr/92309, "news link")        
+[news3](https://www.fpn119.co.kr/149484, "news link")       
+[news4](https://blog.naver.com/sw_maestro/222424498772, "news link")          
 
 <hr/>
 youtube   
