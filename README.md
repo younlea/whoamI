@@ -3,6 +3,7 @@ about me
 
 linkedin : https://www.linkedin.com/in/younlea-kim-30701919/   
 youtube : https://www.youtube.com/user/younlea/videos   
+blog : http://sulac.egloos.com/     
 
 Experience   
 Principal Software Engineer   
