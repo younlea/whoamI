@@ -60,8 +60,10 @@ news
 [소방관에게 천리안을 달아준, 김윤래 멘토를 소개합니다](https://blog.naver.com/sw_maestro/222424498772, "news link")          
 
 <hr/>
-youtube   
-https://www.youtube.com/watch?v=PiM4MGmw2zo   
+
+youtube      
+[소방관의 눈이 되어 드립니다 열화상 카메라 제작 보급기](https://www.youtube.com/watch?v=PiM4MGmw2zo, "youtube link")   
+
 
 
 
