@@ -61,7 +61,8 @@ news
 
 <hr/>
 
-youtube      
+youtube     
+[찾아가는 뉴스룸 열화상 카메라 개발을 위한 소방학교 훈련 편](https://www.youtube.com/watch?v=gpwkQD-H8kM,"youtube link")    
 [소방관의 눈이 되어 드립니다 열화상 카메라 제작 보급기](https://www.youtube.com/watch?v=PiM4MGmw2zo, "youtube link")   
 
 
