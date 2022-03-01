@@ -42,10 +42,10 @@ VOLUNTEER
 • Teaching drone to Gyeonggi Science High School [201803~]   
 • Tomorrow solution mentor [2016,2017, 2018]   
 • Teaching drone to Bundang high school [2017]   
-• Teaching drone build system to Uzbekistan tashkent University [20150904~20150913]   
+• Teaching drone build system to Uzbekistan tashkent University [20150904 ~ 20150913]   
 • Teaching arduino and software to Suwon mathane high school[2015]   
 • Write arduino books that is using Samsung juniors software Academy.(2014)   
-• Teaching science to the elementary student on each Month last weekend.[2013~2016]   
+• Teaching science to the elementary student on each Month last weekend.[2013 ~ 2016]   
 • Mentor on hanium and IT probono (hanium.or.kr) since 2013.   
 
 BLOG AND BOOK   
